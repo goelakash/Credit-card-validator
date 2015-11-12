@@ -1,0 +1,1 @@
+A Haskell script to validate a credit card number using Luhn's algorithm
